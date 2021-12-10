@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ehab98
 - 👀 I’m interested in web development (Django framework)
-- 🌱 I’m currently learning (More in django frame work)
+- 🌱 I’m currently learning (More in django framework)
 - 📫 How to reach me ()
 
 <!---
