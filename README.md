@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ehab , a Python Django developer 👨‍💻  Now working for E-finance🚀  </div>  
+### <div align="center">I'm Ehab , a Python Django developer 👨‍💻 🚀  </div>  
   
 
 - 🔭 I’m currently working as an Application support engineer  
