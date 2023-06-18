@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ehab , a full-time full-stack freelance developer 👨‍💻 working remotely since 2019🚀</div>  
+### <div align="center">I'm Ehab , a Python Django developer 👨‍💻 working remotely since 2019🚀 Now working for E-finance  </div>  
   
 
 - 🔭 I’m currently working as an Application support engineer  
