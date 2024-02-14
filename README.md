@@ -4,9 +4,9 @@
 </div>  
   
 
-## <div align="center"> Hi 👋 I'm Ehab Khattab 👨‍💻</div>  
+# <div align="center"> Hi 👋 I'm Ehab Khattab 👨‍💻</div>  
   ______
-  ### <div align="center">Python developer  🚀  </div>  
+  ## <div align="center">Python developer  🚀  </div>  
 
 - 🔭 I’m currently working as a Python Backend Developer  
   
