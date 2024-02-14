@@ -4,8 +4,9 @@
 </div>  
   
 
-### <div align="center">I'm Ehab , a Python Django developer 👨‍💻 🚀  </div>  
-  
+### <div align="center">I'm Ehab , a Python developer 👨‍💻 🚀  </div>  
+  ______
+  <div align="center">Python developer 👨‍💻 🚀  </div>  
 
 - 🔭 I’m currently working as Python Backend Developer  
   
