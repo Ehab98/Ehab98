@@ -14,10 +14,10 @@
 - 🌱 I’m currently learning Mongo DB and Machine learning  
   
 
-- ❓ Ask me about anything related to Python Django   
+- ❓ Ask me about anything related to Python, Django and DRF    
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I love Coffe more than code 
   
 
 <br/>  
