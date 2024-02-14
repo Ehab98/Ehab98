@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Ehab 👨‍💻   </div>  
+### <div align="center">HI! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">   I'm Ehab 👨‍💻   </div>  
   ______
   <div align="center">Python developer  🚀  </div>  
 
