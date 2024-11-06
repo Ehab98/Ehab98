@@ -6,17 +6,16 @@
 
 # <div align="center"> Hi 👋 I'm Ehab Khattab 👨‍💻</div>  
   ______
-  ## <div align="center">Python developer  🚀  </div>  
+  ## <div align="center"> Senior Python developer  🚀  </div>  
 
 - 🔭 I’m currently working as a Python Backend Developer  
   
-
-- 🌱 I’m currently learning Mongo DB and Machine learning  
+- 📫 How to reach me via email: (ehab.developer98@gmail.com) or whatsapp: (+201127907185)
   
-
+- 🌱 I’m currently learning Machine learning  
+  
 - ❓ Ask me about anything related to Python, Django and DRF    
   
-
 - ⚡ Fun fact: I love Coffe more than code 
   
 
